@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: #CCC;
+}
+
+.fa-trash {
+  cursor: pointer;
+}
